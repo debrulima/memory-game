@@ -25,13 +25,13 @@ Este projeto é uma implementação simples de um jogo da memória, desenvolvido
 4. Assim que todos os pares forem encontrados, uma mensagem de vitória será exibida!
 
 ## 📂 Estrutura do Projeto
-├── index.html        # Arquivo principal do jogo
-├── src
-│   ├── styles
-│   │   ├── reset.css # Reset básico de estilo
-│   │   └── main.css  # Estilos principais do jogo
-│   └── scripts
-│       └── engine.js # Lógica principal do jogo
+├── index.html        # Arquivo principal do jogo \
+├── src \
+│   ├── styles \
+│   │   ├── reset.css # Reset básico de estilo \
+│   │   └── main.css  # Estilos principais do jogo \
+│   └── scripts \
+│       └── engine.js # Lógica principal do jogo 
 
 ## 💻 Contribuições
 Contribuições são bem-vindas! Se você deseja melhorar o jogo, adicionar novos recursos ou corrigir problemas, sinta-se à vontade para abrir um pull request.
